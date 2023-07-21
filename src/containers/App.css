@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'ROBO Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('ROBO Regular'), url('../assets/fonts/ROBO.woff') format('woff');
+  }
+
+  h1{
+    font-family: "ROBO Regular", serif;
+  }
