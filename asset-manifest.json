@@ -1,7 +1,7 @@
 {
-  "main.css": "/robofriends_react/static/css/main.0636b85a.chunk.css",
-  "main.js": "/robofriends_react/static/js/main.e2b778f3.chunk.js",
-  "main.js.map": "/robofriends_react/static/js/main.e2b778f3.chunk.js.map",
+  "main.css": "/robofriends_react/static/css/main.c89c9479.chunk.css",
+  "main.js": "/robofriends_react/static/js/main.c49a0018.chunk.js",
+  "main.js.map": "/robofriends_react/static/js/main.c49a0018.chunk.js.map",
   "static/js/1.c3777927.chunk.js": "/robofriends_react/static/js/1.c3777927.chunk.js",
   "static/js/1.c3777927.chunk.js.map": "/robofriends_react/static/js/1.c3777927.chunk.js.map",
   "static/css/2.9fab11b2.chunk.css": "/robofriends_react/static/css/2.9fab11b2.chunk.css",
@@ -9,11 +9,11 @@
   "static/js/2.77d82d21.chunk.js.map": "/robofriends_react/static/js/2.77d82d21.chunk.js.map",
   "runtime~main.js": "/robofriends_react/static/js/runtime~main.d1e5b7c6.js",
   "runtime~main.js.map": "/robofriends_react/static/js/runtime~main.d1e5b7c6.js.map",
-  "static/media/index.css": "/robofriends_react/static/media/Gerbera.eb56299c.eot",
+  "static/media/index.css": "/robofriends_react/static/media/Gerbera.54f95b5a.ttf",
   "static/media/App.css": "/robofriends_react/static/media/ROBO.632ad653.woff",
-  "static/css/main.0636b85a.chunk.css.map": "/robofriends_react/static/css/main.0636b85a.chunk.css.map",
+  "static/css/main.c89c9479.chunk.css.map": "/robofriends_react/static/css/main.c89c9479.chunk.css.map",
   "static/css/2.9fab11b2.chunk.css.map": "/robofriends_react/static/css/2.9fab11b2.chunk.css.map",
   "index.html": "/robofriends_react/index.html",
-  "precache-manifest.853433dcef33df4c3a8f3ddeb40dd5bd.js": "/robofriends_react/precache-manifest.853433dcef33df4c3a8f3ddeb40dd5bd.js",
+  "precache-manifest.68a9650cd3e1cc52a415c5088a261fc7.js": "/robofriends_react/precache-manifest.68a9650cd3e1cc52a415c5088a261fc7.js",
   "service-worker.js": "/robofriends_react/service-worker.js"
 }
