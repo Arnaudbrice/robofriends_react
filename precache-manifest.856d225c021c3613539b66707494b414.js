@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "/robofriends_react/static/js/runtime~main.d68705c6.js"
   },
   {
-    "revision": "eb56299c74e732e79be8e3dd94700a8a",
-    "url": "/robofriends_react/static/media/Gerbera.eb56299c.eot"
-  },
-  {
     "revision": "0d6b19f13fb422b56d250a81230da78a",
     "url": "/robofriends_react/static/media/Gerbera.0d6b19f1.woff2"
   },
   {
-    "revision": "54f95b5a0e99ed344d5e2c160fc6abfd",
-    "url": "/robofriends_react/static/media/Gerbera.54f95b5a.ttf"
+    "revision": "eb56299c74e732e79be8e3dd94700a8a",
+    "url": "/robofriends_react/static/media/Gerbera.eb56299c.eot"
   },
   {
     "revision": "9701a44cf0e1c1be56673fac1965a9ef",
     "url": "/robofriends_react/static/media/Gerbera.9701a44c.woff"
+  },
+  {
+    "revision": "54f95b5a0e99ed344d5e2c160fc6abfd",
+    "url": "/robofriends_react/static/media/Gerbera.54f95b5a.ttf"
   },
   {
     "revision": "632ad65363f8b4e7681bfa49388a3b66",
